@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Begin Header Section CSS */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,14 +32,14 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
-
+/* header ul & li formatting condensed */
 .header div ul li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
+
+/* End Header Section CSS */
 
 a {
     color: #ffffff;
