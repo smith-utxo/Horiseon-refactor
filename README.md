@@ -4,12 +4,10 @@
 
 Horiseon is a social media marketing company specializing in SEO optimization. They have requested refactoring of their Landing page in order to improve accessibility. 
 
-##ScreenShot 
-
 ![](assets/images/Screenshot.png)
 
 ## Main Objectives
-
+ 
  - Improve accessibility 
  - Add alt tags to images
  - Fix Broken Links
@@ -20,7 +18,7 @@ Horiseon is a social media marketing company specializing in SEO optimization. T
 
   -Adam T. Smith <smith.adam937@gmail.com> 
 
- ##Deployed Application 
+ ## Deployed Application 
 
  [https://smith-utxo.github.io/Horiseon-refactor/](https://smith-utxo.github.io/Horiseon-refactor/)
 
@@ -29,4 +27,4 @@ Horiseon is a social media marketing company specializing in SEO optimization. T
 
  © Adam T. Smith, U of M COding Boot Camp 
 
- Licensed under the [MIT license](LICENSE).
+ Licensed under the [MIT license](LICENSE).Add
