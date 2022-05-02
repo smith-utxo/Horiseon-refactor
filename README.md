@@ -16,7 +16,7 @@ Horiseon is a social media marketing company specializing in SEO optimization. T
 
 ## Contributors
 
-  -Adam T. Smith <smith.adam937@gmail.com> 
+  - Adam T. Smith <smith.adam937@gmail.com> 
 
  ## Deployed Application 
 
@@ -25,6 +25,6 @@ Horiseon is a social media marketing company specializing in SEO optimization. T
 
 ## License & Copyright
 
- © Adam T. Smith, U of M COding Boot Camp 
+ © Adam T. Smith, U of M Coding Boot Camp 
 
  Licensed under the [MIT license](LICENSE).Add
