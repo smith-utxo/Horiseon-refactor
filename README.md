@@ -2,7 +2,11 @@
 
 ## **Description**
 
-Refactor Horeison Landing Page. 
+Horiseon is a social media marketing company specializing in SEO optimization. They have requested refactoring of their Landing page in order to improve accessibility. 
+
+##ScreenShot 
+
+![](assets/images/Screenshot.png)
 
 ## Main Objectives
 
@@ -11,3 +15,18 @@ Refactor Horeison Landing Page.
  - Fix Broken Links
  - Conslidate CSS properties & follow Semantic Structure 
  - Add Comments on CSS & HTML to improve readability 
+
+## Contributors
+
+  -Adam T. Smith <smith.adam937@gmail.com> 
+
+ ##Deployed Application 
+
+ [https://smith-utxo.github.io/Horiseon-refactor/](https://smith-utxo.github.io/Horiseon-refactor/)
+
+
+## License & Copyright
+
+ © Adam T. Smith, U of M COding Boot Camp 
+
+ Licensed under the [MIT license](LICENSE).
